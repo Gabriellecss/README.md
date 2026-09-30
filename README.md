@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-# 👋 Olá, eu sou Gabrielle Cristina de Souza Silva
+# 👋 Olá, eu sou Gabrielle Silva
 
 ### 🚀 Inovação | Tecnologia | Gestão de Projetos
 
